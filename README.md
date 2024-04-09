@@ -2,7 +2,7 @@
 
 O Pass.in é uma aplicação de **gestão de participantes em eventos presenciais**. A ferramenta permite que o organizador cadastre um evento e abra uma página pública de inscrição.
 
-Esse repositório contém a API criada no NLW UNITE da [Rocketseat](https://www.rocketseat.com.br/), na trilha de nodejs!
+Esse repositório contém a API criada durante o NLW UNITE da [Rocketseat](https://www.rocketseat.com.br/), na trilha de nodejs!
 
 ## 🚀 Começando
 
